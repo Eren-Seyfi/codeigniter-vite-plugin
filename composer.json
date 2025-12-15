@@ -1,0 +1,30 @@
+{
+  "name": "eren-seyfi/codeigniter-vite-plugin",
+  "description": "Laravel-like @vite() helper for CodeIgniter 4",
+  "type": "library",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Eren Seyfi",
+      "email": "eren50seyfi@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.1",
+    "codeigniter4/framework": "^4.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Eren\\CodeIgniterVitePlugin\\": "src/"
+    },
+    "files": [
+      "src/Helpers/vite_helper.php"
+    ]
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
