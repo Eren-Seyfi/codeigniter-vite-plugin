@@ -2,8 +2,20 @@
   "name": "eren-seyfi/codeigniter-vite-plugin",
   "description": "Laravel-like @vite() helper for CodeIgniter 4",
   "type": "library",
-  "version": "1.0.0",
   "license": "MIT",
+  "keywords": [
+    "codeigniter",
+    "codeigniter4",
+    "vite",
+    "assets",
+    "manifest",
+    "php"
+  ],
+  "homepage": "https://github.com/Eren-Seyfi/codeigniter-vite-plugin",
+  "support": {
+    "issues": "https://github.com/Eren-Seyfi/codeigniter-vite-plugin/issues",
+    "source": "https://github.com/Eren-Seyfi/codeigniter-vite-plugin"
+  },
   "authors": [
     {
       "name": "Eren Seyfi",
